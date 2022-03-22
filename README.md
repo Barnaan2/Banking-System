@@ -18,16 +18,26 @@ gitub user name------------- @Barnaan2 ------email address-------------- Barnaan
   An Admin user can do the following 
 
    1.Pay salary for Employee
+   
    2.Hire Employee 
-   3.Fire Employee  
-   4.Check How many Employee exists in the system  
-   5 .Check How many Customers  exists  in the system
-   6.Change Password 
-   8.Check Specific Customer Information
-   9.Check Specific Employee Information
-  10.Print All Employees  in the system
-  11.Print Customer  in the system
-  12.Logout of the Admin interaface to login as Employee or Exit
+  
+  3.Fire Employee  
+ 
+ 4.Check How many Employee exists in the system  
+
+5 .Check How many Customers  exists  in the system
+
+6.Change Password 
+
+8.Check Specific Customer Information
+ 
+ 9.Check Specific Employee Information
+
+10.Print All Employees  in the system
+
+11.Print Customer  in the system
+ 
+ 12.Logout of the Admin interaface to login as Employee or Exit
 --------------------------------------------------------------------------------------------------------
 
 
