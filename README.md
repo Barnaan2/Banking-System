@@ -37,7 +37,8 @@ gitub user name------------- @Barnaan2 ------email address-------------- Barnaan
 
 11.Print Customer  in the system
  
- 12.Logout of the Admin interaface to login as Employee or Exit
+12.Logout of the Admin interaface to login as Employee or Exit
+ 
 --------------------------------------------------------------------------------------------------------
 
 
