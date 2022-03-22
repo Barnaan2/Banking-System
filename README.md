@@ -6,8 +6,10 @@ Fully Functional Banking System by java .
 
 
 ---------------------------BANKING SYSTEM SIMUALATION BY JAVA-------------------------------------------------
-Code Writer -----------------BERANABAS TEKKALIGN-----------------------------------------------------------
-gitub user name------------- @Barnaan2 ------email address-------------- BarnaanTekaling@gmail.com
+-----------------------------------------------------------------------------------------------------------
+Code Writer ---------------------------------------------------BERANABAS TEKKALIGN-----------------------------------------------------------
+gitub user name----------------------------------------------- @Barnaan2 
+Email address------------------------------------------------- BarnaanTekaling@gmail.com
  
   By using this system you can do  login as either Employee or as an Administrator
    As ilustration i set Admin id  and password in Home page.
@@ -62,5 +64,4 @@ Here the the "serve Customers" option in Number [2] also have another sub option
 
 
 ---------this is just for demo purpose. fully funcitonal system still underdevelopment-------------
----------------------------------Thank you for checking---------------------------------------------
-----------for any  comment and suggestions- email me  at BarnaanTekaling@gmail.com------------------
+--------------------------------- --------------Thank you for checking---------------------------------------------
