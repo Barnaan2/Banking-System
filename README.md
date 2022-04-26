@@ -1,5 +1,5 @@
 # Banking-System
-Fully Functional Banking System by java . 
+Fully Functional Banking System in java . 
              
        first unzip the file then use command Line/terminal to run the class that contain Main method.     
             THE NAME OF THE CLASS CONTAIN MAIN METHOD IS -------[ Home_page.java]-----------
