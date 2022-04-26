@@ -4,15 +4,10 @@ Fully Functional Banking System by java .
        first unzip the file then use command Line/terminal to run the class that contain Main method.     
             THE NAME OF THE CLASS CONTAIN MAIN METHOD IS -------[ Home_page.java]-----------
 
-
----------------------------BANKING SYSTEM SIMUALATION BY JAVA-------------------------------------------------
------------------------------------------------------------------------------------------------------------
-Code Writer ---------------------------------------------------BERANABAS TEKKALIGN-----------------------------------------------------------
-gitub user name----------------------------------------------- @Barnaan2 
-Email address------------------------------------------------- BarnaanTekaling@gmail.com
- 
+    
+              Banking system demo with java
   By using this system you can do  login as either Employee or as an Administrator
-   As ilustration i set Admin id  and password in Home page.
+       As ilustration i set Admin id  and password in Home page.
   Also if you wish to use as Employee i have created one Employee and set its information in home page.
 
   ---------------------------------------------------------------------------------------------------------------
@@ -64,4 +59,4 @@ Here the the "serve Customers" option in Number [2] also have another sub option
 
 
 ---------this is just for demo purpose. fully funcitonal system still underdevelopment-------------
---------------------------------- --------------Thank you for checking---------------------------------------------
+ @written by barnaan Tekalign;
